@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "c": "patient is non-traumatic"
+  },
+  {
+    "id": 2,
+    "c": "patient is breathing normally"
+  },
+  {
+    "id": 3,
+    "c": "patient is vomiting (blood)"
+  }
+]

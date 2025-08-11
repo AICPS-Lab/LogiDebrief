@@ -1,0 +1,14 @@
+# Core dependencies for LogiDebrief Research Prototype
+# Minimal requirements for running the system
+
+# OpenAI API client
+openai>=1.34.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Configuration file support
+PyYAML>=6.0
+
+# Standard utilities (usually pre-installed)
+typing-extensions>=4.0.0

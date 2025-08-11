@@ -1,0 +1,40 @@
+Dispatcher: 911, what's your emergency?
+Caller: Hi, I need help! My husband is having severe abdominal pain.
+Dispatcher: Okay, I'm here to help. What's your address?
+Caller: We're at 123 Main Street, apartment 4B.
+Dispatcher: That's 123 Main Street, apartment 4B, correct?
+Caller: Yes, that's right.
+Dispatcher: What's your phone number in case we get disconnected?
+Caller: It's 555-0123.
+Dispatcher: And what's your name?
+Caller: Sarah Johnson.
+Dispatcher: Okay Sarah. Tell me exactly what's happening with your husband.
+Caller: He's been having severe pain in his stomach for about an hour. It started suddenly.
+Dispatcher: Is he conscious?
+Caller: Yes, he's awake but in a lot of pain.
+Dispatcher: Is he breathing normally?
+Caller: Yes, his breathing seems okay.
+Dispatcher: How old is your husband?
+Caller: He's 45 years old.
+Dispatcher: Has he vomited?
+Caller: Yes, he threw up twice in the last 30 minutes.
+Dispatcher: Does he have any medical alert bracelets or known medical conditions?
+Caller: No medical alert bracelet, but he has high blood pressure.
+Dispatcher: Is the pain in one specific area or all over his abdomen?
+Caller: It's mostly on the right side, lower right.
+Dispatcher: On a scale of 1 to 10, with 10 being the worst, how would he rate the pain?
+Caller: He says it's a 9.
+Dispatcher: Has he had any recent injuries or surgeries?
+Caller: No, nothing recent.
+Dispatcher: I'm sending an ambulance to you right now. They should be there in about 5 minutes. 
+Dispatcher: While we wait, I need you to help him get into a comfortable position. Don't give him anything to eat or drink.
+Caller: Okay, I understand.
+Dispatcher: If his condition changes or gets worse, let me know immediately. Stay on the line with me.
+Caller: I will. Thank you so much.
+Dispatcher: The paramedics are on their way. Is your apartment building easy to find from the street?
+Caller: Yes, it's the red brick building right on Main Street. The apartment number is clearly marked.
+Dispatcher: Perfect. Help is almost there, Sarah. You're doing great.
+Caller: I can hear the sirens now!
+Dispatcher: Good, they should be there any moment. I'll stay on with you until they arrive.
+Caller: They're here! Thank you so much for your help.
+Dispatcher: You're welcome. The paramedics will take good care of him. Take care.

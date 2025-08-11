@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "i": "Listen carefully-I'll tell you what to do. Roll the patient onto his/her side. Have someone stay with the patient to watch his/her breathing until help takes over.",
+    "c": "AND(1, 2)"
+  },
+  {
+    "id": 2,
+    "i": "If the patient vomits, turn them onto their side to allow the vomit to drain from their mouth. Use your fingers to sweep out only what the caller can see in the patient's mouth.",
+    "c": "AND(1, 2)"
+  },
+  {
+    "id": 3,
+    "i": "If the patient stops breathing normally or his/her condition changes, call me back so I can tell you what to do.",
+    "c": "AND(1, 2)"
+  },
+  {
+    "id": 4,
+    "i": "Listen carefully. I'll tell you what to do. Roll the patient onto his/her side. Use your fingers to sweep out only what the caller can see in the patient's mouth. Go do that and come back to the phone.",
+    "c": "AND(1, 3)"
+  },
+  {
+    "id": 5,
+    "i": "Is the patient breathing normally?",
+    "c": "AND(1, 3)"
+  },
+  {
+    "id": 6,
+    "i": "Continue watching the patient's breathing. If the patient stops breathing normally or his/her condition changes, call me back so I can tell you what to do.",
+    "c": "AND(1, 2, 3)"
+  },
+  {
+    "id": 7,
+    "i": " Listen carefully - I'll tell you what to do. Gently remove any pillows that have been placed under the patient's head. Don't move the patient unless they are in danger. If you have to move the patient, try to keep the head and neck as still as possible. ",
+    "c": "AND(NOT(1), 2)"
+  },
+  {
+    "id": 8,
+    "i": "Have someone stay with the patient to watch his/her breathing until help takes over.",
+    "c": "AND(NOT(1), 2)"
+  },
+  {
+    "id": 9,
+    "i": "If the patient vomits, or there is blood in the mouth, try to keep the head and neck in line with the rest of the body and gently roll the patient onto his/her left side to allow the vomit to drain from their mouth. Use your fingers to sweep only what the caller can see in the patient's mouth while keeping his/her head as still as possible.",
+    "c": "AND(NOT(1), 2)"
+  },
+  {
+    "id": 10,
+    "i": "If the patient stops breathing normally or his/her condition changes call me back so I can tell you what to do.",
+    "c": "AND(NOT(1), 2)"
+  },
+  {
+    "id": 11,
+    "i": "Listen carefully - I'll tell you what to do. Try to keep the head and neck in line with the rest of the body and gently roll the patient onto his/her left side to allow the vomit to drain from their mouth. Use your fingers to sweep only what the caller can see in the patient's mouth while keeping his/her head as still as possible. ",
+    "c": "AND(NOT(1), 3)"
+  },
+  {
+    "id": 12,
+    "i": "Is the patient breathing normally?",
+    "c": "AND(NOT(1), 3)"
+  },
+  {
+    "id": 13,
+    "i": "Continue watching the patient's breathing. If the patient stops breathing normally or his/her condition changes, call me back so I can tell you what to do.",
+    "c": "AND(NOT(1), 2, 3)"
+  }
+]

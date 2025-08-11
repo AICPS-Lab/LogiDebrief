@@ -1,0 +1,16 @@
+{
+    "simulation_mode": "flash",
+    "incident_spec": {
+        "incident_type": "Abdominal or Back Pain",
+        "address": "123 Main Street, Apartment 4B",
+        "supplementary_details": "45-year-old male with severe right lower abdominal pain, vomiting, history of hypertension",
+        "PD": false,
+        "FD": false,
+        "EMD": true
+    },
+    "metadata": {
+        "call_duration": "4:35",
+        "priority": "high",
+        "response_time": "5 minutes"
+    }
+}

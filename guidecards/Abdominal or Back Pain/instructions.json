@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "i": "Nothing to eat or drink.",
+    "c": null
+  },
+  {
+    "id": 2,
+    "i": "Allow position of comfort.",
+    "c": null
+  },
+  {
+    "id": 3,
+    "i": "If possible, gather patient’s medications and give to responders when they arrive.",
+    "c": null
+  },
+  {
+    "id": 4,
+    "i": "Put any pets away.",
+    "c": null
+  },
+  {
+    "id": 5,
+    "i": "Turn the porch light on and/or wait at the door",
+    "c": null
+  },
+  {
+    "id": 6,
+    "i": "If anything changes or the patients condition worsens, please call back.",
+    "c": null
+  }
+]

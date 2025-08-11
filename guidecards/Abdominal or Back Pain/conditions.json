@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "c": "patient is conscious"
+  },
+  {
+    "id": 2,
+    "c": "patient vomited"
+  },
+  {
+    "id": 3,
+    "c": "patient has a MEDIC ALERT bracelet"
+  },
+  {
+    "id": 4,
+    "c": "patient is a 12-50 years old woman"
+  }
+]

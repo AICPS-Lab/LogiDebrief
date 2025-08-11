@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "q": "Is the patient having trouble breathing?",
+    "c": null
+  },
+  {
+    "id": 2,
+    "q": "Is the patient able to speak in full sentences?",
+    "c": "1"
+  },
+  {
+    "id": 3,
+    "q": "Is the patient having any chest pains?",
+    "c": "1"
+  },
+  {
+    "id": 4,
+    "q": "Where is the pain? (Abdomen or Back)",
+    "c": "1"
+  },
+  {
+    "id": 5,
+    "q": "Is the pain above or below the belly button?",
+    "c": "1"
+  },
+  {
+    "id": 6,
+    "q": "Has the patient vomited?",
+    "c": null
+  },
+  {
+    "id": 7,
+    "q": "What does the vomit look like?",
+    "c": "2"
+  },
+  {
+    "id": 8,
+    "q": "Are the patient’s bowel movements different than normal?",
+    "c": null
+  },
+  {
+    "id": 9,
+    "q": "How would you describe their movements?",
+    "c": null
+  },
+  {
+    "id": 10,
+    "q": "Is the pain due to an injury?",
+    "c": null
+  },
+  {
+    "id": 11,
+    "q": "Does the patient have any other medical or surgical history?",
+    "c": null
+  },
+  {
+    "id": 12,
+    "q": "Does the patient have a MEDIC ALERT bracelet?",
+    "c": null
+  },
+  {
+    "id": 13,
+    "q": "What does the MEDIC ALERT bracelet say?",
+    "c": "3"
+  },
+  {
+    "id": 14,
+    "q": "Is the patient pregnant?",
+    "c": "4"
+  }
+]
