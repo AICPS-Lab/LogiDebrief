@@ -15,7 +15,7 @@ An automated debriefing system for emergency call analysis using Large Language 
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/AICPS-Lab/LogiDebrief.git
 cd LogiDebrief
 ```
 
