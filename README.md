@@ -2,7 +2,7 @@
 
 An automated debriefing system for emergency call analysis using Large Language Models and Signal-Temporal Logic. This research prototype demonstrates automated quality assurance for 911 emergency call handling.
 
-📖 **Paper**: [LogiDebrief: A Signal-Temporal Logic based Automated Debriefing Approach with Large Language Models Integration](https://arxiv.org/abs/2505.03985)
+📖 **Paper**: [LogiDebrief: A Signal-Temporal Logic based Automated Debriefing Approach with Large Language Models Integration](https://doi.org/10.24963/ijcai.2025/1065)
 
 ## 🚀 Quick Start
 
@@ -247,15 +247,24 @@ This is a research prototype. The complete codebase with formalized guidecards a
 If you use this code for research purposes, please cite our paper:
 
 ```bibtex
-@article{chen2025logidebrief,
-  title={LogiDebrief: A Signal-Temporal Logic based Automated Debriefing Approach with Large Language Models Integration},
-  author={Chen, Zirong and An, Ziyan and Reynolds, Jennifer and Mullen, Kristin and Martini, Stephen and Ma, Meiyi},
-  journal={arXiv preprint arXiv:2505.03985},
-  year={2025}
+@inproceedings{ijcai2025p1065,
+  title     = {LogiDebrief: A Signal-Temporal Logic Based Automated Debriefing Approach with Large Language Models Integration},
+  author    = {Chen, Zirong and An, Ziyan and Reynolds, Jennifer and Mullen, Kristin and Maritini, Stephen and Ma, Meiyi},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {James Kwok},
+  pages     = {9582--9590},
+  year      = {2025},
+  month     = {8},
+  note      = {AI and Social Good},
+  doi       = {10.24963/ijcai.2025/1065},
+  url       = {https://doi.org/10.24963/ijcai.2025/1065},
 }
+
 ```
 
-📖 **Paper**: [https://arxiv.org/abs/2505.03985](https://arxiv.org/abs/2505.03985)
+📖 **Paper**: [https://arxiv.org/abs/2505.03985](https://doi.org/10.24963/ijcai.2025/1065)
 
 ## 📄 License
 
