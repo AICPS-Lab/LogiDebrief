@@ -263,7 +263,7 @@ If you use this code for research purposes, please cite our paper:
 
 ```
 
-📖 **Paper**: [https://arxiv.org/abs/2505.03985](https://doi.org/10.24963/ijcai.2025/1065)
+📖 **Paper**: [(https://doi.org/10.24963/ijcai.2025/1065)](https://doi.org/10.24963/ijcai.2025/1065)
 
 ## 📄 License
 
