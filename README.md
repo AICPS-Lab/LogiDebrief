@@ -205,7 +205,7 @@ LOG_LEVEL=DEBUG
 
 ## 📊 Output Format
 
-The system generates a comprehensive JSON report including:
+The system generates a comprehensive JSON report including (see example snippet below):
 
 ```json
 {
@@ -220,7 +220,6 @@ The system generates a comprehensive JSON report including:
     "result": "YES/NO/N/A",
     "explanation": "..."
   },
-  // ... additional checks
 }
 ```
 
